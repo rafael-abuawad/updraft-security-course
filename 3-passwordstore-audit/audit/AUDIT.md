@@ -88,7 +88,7 @@ I use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate-
 - Outsides: No one else should be able to set or read the password.
 
 # Executive Summary
-The audit was really short, since the codebase was really simple, we were able to find multiple issues, including 2 high-severity issues. It took around 2 hours to complete the entire audit.
+The audit was really short, since the codebase was really simple, we were able to find multiple issues, including 2 high-severity issues. It took around 2 hours to complete the entire audit.ñ
 
 ## Issues found
 
